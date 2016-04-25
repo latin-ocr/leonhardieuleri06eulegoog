@@ -1,0 +1,41 @@
+³4 ’ CAPUT n.
+
+resolutio quoque revocatur ad aequationem differentialem primi gra.
+
+, dus, cujus resolutio si fuerit in potestate, simul illius integrale ex·-
+hiberi poterit.
+
+corollarium 2.
+
+771. Si aequatio inter y, ρ et q ita fuerit comparata, ut
+ex ea commode valor ipsius q elici queat, hincque q aequetur sunc-
+
+tioni ipsarum y et p, quae sit T, erit pozTBy, quae est ae-
+quatio differentialis primi gradus simplex.
+
+Corollari'um 3.
+
+77 2 Sin autem hujusmodi evolutio non succedat, dum litte·
+ra q vel ad altiores potestates exsurgit, vel signis radicalibus invol-
+vitur, vel adeo transcendenter ingreditur, aequatio differentialis qui·
+
+dem erit primi gradus sed complicata, quae methodis supra expo-
+sitis erit tractanda.
+
+Scholion 1.
+
+· 7 78. Cum paucis casibus aequationes differentiales primi gra·
+dus integrari queant, eosdem etiam hic notasse et per exempla il·
+lustrasse juvabit. Interim vero et reliquos casus quasi solutos spec· ⁵
+tari convenit, quandoquidem in aequationibus differentialibus altiorum
+ordinum id potissimum desideratur ut earum resolutio ad ordinem
+inferiorem reducatur. Perpetuo enim in Analysi quae ordine trac-
+tationis praecedunt, tanquam penitus confecta spectari solent, etiam-
+si plurium adhuc desiderentur, ut hoc modo multitudo desideratorum
+&minuatum Ita quamvis longe adhuc absit, quominus aequationes
+algebraicas omnium ordinum resolvere valeamus, dum adeo vires
+nostrae non ultra quartum extenduntur, tamen in Analysi sublimiori
+»mnium istarum aequationum resolutionem pro cognita ,habemus-
+
+Quod etiam, usu non caret, cum. in praxi resolutio per approxima·
+

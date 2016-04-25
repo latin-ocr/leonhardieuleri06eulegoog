@@ -1,0 +1,49 @@
+336 . -CAPUT 111‘.
+
+Scholion.
+
+1¹42. Haec igitur est methodus hujusmodi aequat-iones dif-
+ferentiales altimum graduum successive per gradus integrandi, ubi
+tot opus est integrationibus‚ quoti gradus differentialis [uerit ipsa
+aequatio proposita. Totum ergo negotium 'situm est in inventione
+successiva coe‘fficientium, quos ex praecedentibus ope multiplicatoris
+
+· definiri oportet. In genere quidem lex, qua ii continuo ex antece-
+
+dentibus determinantur, non ita cst perspicua, ut inde forma inte-
+grabilis extremi perspici possit3 verum quia ex capite superiori
+novimus, casu quo primum membrum X evanescit, etiam ultimum
+integrale lege satis simplici contineri, ideni hic usu venire merito
+suspicamur, eamque legem facillime agnoscemus, si pedetentim a
+gradibus inferioribus ad altiores progrediamur. Ac primo quidem
+
+casu, quo aequatio est differentialis primi gradus Xsz ÷B}{›
+
+multiplicator erit eu ὃω, posito A —- λ Β z: 0, ut sit λε {3
+et cum sit As ΕΞ* ...- 13, integrale crit ⁴
+
+sekaeXszssexxy seu e‘”*‘>⁸³‘se>mc xbxzssy.
+Ad hanc similitudinem aequationes graduum altimum evolvamuS, ac
+
+tintinant integralis ultimi investigemus.
+Problema 148.
+
+1143. Proposita aequatione differentiali secundi gradus
+
+per duplicem integrationem relationem inter m et y investigare.
+
+Solutio.
+
+Sit 20²²&AE multiplicator hanc aequationem per se integrabi-
+lcm r‹·‹l‹l ns, critque A ·-- Βλ 4⁴ C 22²1: Ο, tum sumatur
+
+Α τψλῑῑΒη--Ολ etB' Βλ“”“;(3,
+
+ 
+
+ 
+
+ 
+
+ 
+

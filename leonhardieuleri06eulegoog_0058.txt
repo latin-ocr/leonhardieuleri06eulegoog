@@ -1,0 +1,40 @@
+Aa «CAPUT m.
+
+gulis aequationis terminis idem oriatur dimensionum numerus. Vicis-
+sim ergo quoties haee' proprietas in aequatione inter quaternas quau-
+titates ω, y, p et q. proposita deprehenditur, ea aequatio erit ho·
+mogenea et forma vulgari expressa manifesto homogeneitatem prae
+se seret.
+
+Corollarium 1.
+
+791. si ergo in aequatione tali homogenea inter x, y. p
+et q statuatur y: ιι x -et q Ξ ΖΞ, omnes termini eandem potesta-
+
+‚tem' ipsius x continebunt, qua ergo per divisionem sublata, nequa·
+'tio prodibit tres tantum variabiles u, ,υ -et p involvens,
+
+Corollarium 2.
+
+792. ‘criterium igitur aequationis homogeneae inter quatuor
+
+quantitates x, y, p et q propositae in hoe consistit, ut posito ,
+
+y :u x et q Ζ Ξ, quantitas x prorsus ex calculo exterminetur.
+
+corollarium 3.
+
+⁷93. Facta itaque hae substitutione, qua obtinetur aequatio
+inter ternas quantitates ιι, υ et p, ex ea pro lubitu vel p per ιι
+et v, vel v per u et p, vel u per v et p definiri poterit.
+
+Scholion,
+
+794. Simili modo ideam homogeneitatis in aequationibus dif-
+ferentio-differentialibus constituimus, quo in aequationibus differentia·
+lib'us primi gradus ‘sumus usi. In his quidem, cum differentialis
+sponte· eundem dimensionum numerum constituere debeant, homoge-
+neitas ex solis ipsis variabiiibus x et y dijudicatur. At in aequa·
+tionibus differentio · differentialibus praeter ipsas variabiles x et y
+etiam litterae q ratio in computo dimensionum haberi debet, ita ta·
+

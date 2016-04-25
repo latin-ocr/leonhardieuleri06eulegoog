@@ -1,0 +1,31 @@
+CAPUT Ι.
+
+ΒΕ
+
+INTEGRATIONE FORMULARUM DIFFERENTIALIUM TERTH ’
+’ ALTIORISVE GRAnth SIMPLICIUM.
+
+Problema. 140.
+
+1100.
+
+Sumto elemento ὃ x constante, invenire integrale completum harum
+formularum 3³ y z 0 , ὃ* y :5- 0 , 3⁵ y Σ Ο etc. atque in genere
+hujus 3¹⁸ y z: ο.
+
+Solatia .
+
+Cum ὃ ,τ sit constans , aequatio ὒῗ y': 0 per integrationem
+dat ὂ ὂ y ··..: α ὃ x', hincque porro integrando ὃ y Ξ α x ὀ x -ι- β ὃ x,
+et tandem yzgaff -1- βιι· -Ι- Ὑ.
+Simili modo ex aequatione ὃ* ‘y :3 0 , per quadruplicem integra· .
+tionem reperitur ’
+1) 3³ y ΣΞ·- a ὃ ω3, ·
+2) ὂόῃῖ--αεεόὤ-ι-βόωζ
+3) ὃνΞὶαωωόω-ι-βωόετ-ῧ-Ύόω,
+et tandem ’
+., υμετὲατΒ-ΗβωἫ-νω-ΐ-δ-
+Ex aequatione autem ὃὸ y z: ο , integratio quinquies repetita: dat
+ἐν’-..τὰ α :12⁴ ÷5ssx³ ÷4vx² -1-622 «με.
+’ Ἰὖ
+

@@ -1,0 +1,45 @@
+CAPUT XII. . 293.
+
+expedire licet. Evenit hoe,· quando pro quopiam intervaiio quanti·
+tates V et c vel· evanescunt vel in infinitum excrescunt3 ‚quin etiam
+fieri potest, ut quantumvis exiguum intervallum accipiatur, quantita-
+ωε y et p variationibus infinitis sint obnoxiae, quarum repraesen-
+tatio determinationem prorsus singularem requirit. Veluti si propona-
+
+tur haee aequatio ὃ ὂ y -Ι- 93ἴ z 0 , intervallum ab x :z 0 usque
+
+ad ,τ’-τω, etiamsi ’ω quam minimum assumatur, infinitam mutatio·
+nem in valoribus y et p indicat3 id quod ex ejus integi-‘aii com-
+pleto perspicitur, quod cum sit ”
+
+ 
+
+ 
+
+Seu
+
+evidens est si x: 0, fore quidem yzo, sed ipsius p valorem esse
+incertum. At ipsi x valorem quam minimum tribuendO, y quidem
+minimum retinebit valorem, sed qui pro minimo intervallo modo sit
+positivus, modo evanescens , modo negativus , ob maximam mutatio-
+nem, quam l x patitur, quantitas autern 'p interea transit per
+omnes mutationes possibiles. Idem luculentius perspicitur ex hoc
+
+exemplo
+33y÷²³{⁶-2—ffyf—³3:0,
+2
+cujus integrale est yzAsin.({ -f-oe); dum· enim :r a· θ ad ω
+crescit, angulus Ξ 4- α. ab infinito ad finitum transibit, ejusque sinus
+interea omnes mutationes ab -i- 1 ad -- ι infinities adeo subibit.
+Quando ergo ejusmodi intervalia occurrunt, mirum non est, si con-
+
+suetae methodi approximandi deficiant, quippe quae hoc principio
+innituntur, quod mutationes per intervalla minima, sint etiam valde
+
+parvae3 his autem intervaltis exceptis soiutio· praescripta semper
+cum usu adhiberi potest. ·
+
+ 
+
+ 
+

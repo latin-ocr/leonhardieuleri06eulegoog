@@ -1,0 +1,54 @@
+CAPUT 111. ,61
+
+'Tertio integrationem absolvere licebit, si υ suerit fimetio quaecunque
+quantitatis p — ιι. Posito enim ρ-ιι :·- ε, ut sit v functio ipsius
+S, ob pzs4u, nostra aequatio erit υόιιῑεόε-ι-εόιι,
+ideoque Bu: -—-—- et ιι-..ΞῘὌἛ-ςς, quae integratio adeo ad for·
+
+mulas simplices Uest 1efe1·.enda Ouaito manente s-:p ——- ιι, si P,
+Q, R denotent functiones quaspunque ipsiuss‚ aequatio nostra υόιιῑ
+Ps
+Qu -4- Run
+,enim fit P ὃ ιι-- Qubs-i-Runhs. Quinto etiam patet, si de-
+notantibus V et U functiones quascunque ipsius ιι, suerit vzs-l—
+'Vss—i- Usn, integrationem quoque sore in potestate, fit enim ae-
+quatio nostra V s ὒ ιι -i- U Su·— ¹ ὂ ιι z: ὃ s· Atque in genere si ae·
+quatio differentialis Dsdeu fuerit integrabilis, existente Z func·
+tione binarum variabiiium· s et ιι, cum nostra aequatio sit sbs:
+
+-(v -- s) ὃ ιι, habebimus v z: s -4- Ζ s pro omnibus casibus integra·
+ationem admittentibus.
+
+ 
+
+s ὃ s -1- s ὃ ιι tractari poterit, si fuerit v z s ÷
+
+ 
+
+‚ tum
+
+Euxemplum 1.
+
+·80 o. Sumto elemento· ὃ x constante, si proponatur haee
+aequatio x x ὃ ὃ y :·oe ὃ x ὃ y -ἦ- ny3ae²'‚ ejus inteqrale invenire.
+
+’ Posito Byzp Dx'et ὒρ-Ξᾳῦω, erit qaexzpae÷ny,
+
+unde facto y :z ux, prodit qx :p 4- η ιι z: v, ita ut v sit
+’ functio unius dimensionis ipsarum p et ιι, et aequatio nostra ,
+(ρ-ι- ηιι) ὃ ιι Ξρᾶρ- ιιῦρ fiat homogeuea. Cum ergo sit ηιιόιι-ι-
+ρῦιι-ι- ιι ὀ p Ξ p ὃ p , erit integrando
+
+C-1—nuu-1-2pu-2pp et
+pzu·÷1l[C-†-(n-†—1)uu].
+
+Habebimus ergo ἨΞ-ῖῑ-Ῑ-ἅ-ἱ-Πῆ, quae denuo integrata dat
+
+1--,Ivvs(n÷ 12÷V[c÷(n-i-1)ttn.1 ,ω
+roz-in) n ⁹
+
+ 
+
+lx:
+*ιιι
+

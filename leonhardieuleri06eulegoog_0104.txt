@@ -1,0 +1,57 @@
+94 ’ CAPUT xv,¹
+Problema 106.
+
+⁸6¹. Sumto elemento ἂω constante, si proponatur haec ae-
+quatio differentio- differentialis
+
+Dby— QQE÷Aaen393x÷Bxa ”y3x2-2X3ae2,
+
+existente X functione quacunque ipsius x, ejus integrale completum
+investi ga re.
+
+Solutio.
+
+= Resolutio hujus aequationis ut supra ex positione yzuv de-
+rivari posset, sed alia methodo hic utentes levi substitutione eam
+ad formam problematis praecedentis reducamus. Scilicet ponamus
+xnaxzbt, ut sit xn÷¹.-::(n-i-1)t, qua substitutione functio X
+abeat in T, functionem quandam ipsius t. Ne autem assumtio ele-
+
+menti bx constantis turbet, hanc conditionem tollamus ponendo Dy- ’
+
+,Ρ pax et Bp: qu, habebimusque
+q-Exf-'q-Aaeup-i-wa sz.
+δῖ . :1:²²
+
+ 
+
+ 
+
+Cum nunc sit bx: {²3- ‚ erit p Σ ὃ t y , hincque sumto elemento
+ἂι constante
+&pr-Ex -3t3x3y÷ffi}„?„3:q32 ,- abt
+
+ergo
+
+ 
+
+ 
+
+sicque nostra aequatio erit
+
+ω”ῑόὂῃ-ηωπ-’ὂθ- ⁴²2³ “¹Q4As‘g ηρἔῆῑςμηχ ’ty—X
+ὀμ ······ ἂι ht ‘—
+
+Sit X .κ’-’ἠ ..τ- Θ , quae quantitas, posito :1⁸4¹ :z (n —4— 1) t , ut
+functio ipsius t spectari potest, sicque⁸ fiet
+
+ὂόῃ-ι-Αόῃότῆ-Βῃὸζῗ-ἛΘΜΞ,
+
+ 
+
+ 
+
+ 
+
+ 
+

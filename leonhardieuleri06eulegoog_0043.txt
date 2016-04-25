@@ -1,0 +1,45 @@
+CAPUT n. ³³
+unde fit “
+
+,3
+1 -4- α a q q :z 1! ἒξ,
+ita ut hoc modo aequatio inter x et y exhiberi ‚possit Hoc au·
+tem integrale, ut supra vidimus, tantum est particulare.
+
+Problema 96.
+
+769. Posito Byr-‚pax et ,ὂρῐᾷὃωῃ si detur aequatio
+quaecunque inter y, p et q, ita ut variabiIIs x ipsa in ea desit;
+investigare aequationem integralem inter x et y.
+
+S o l u ti o.
+
+Cum sit ηεξ-Ξ et &xz-³32, erit 9⁹:23}AEss in aequatione
+ergo inter y, Ρ et q ubique loco q substituatur iste valor 9337? 2
+atque habebitur aequatio differentialis primi gradus binas tantum va·
+riabiles p et y involvens, cujus resolutionem per methodos supra ex·
+positas tentari oportet. Inventa autem aequatione integrali inter p
+et y, inde vel p per y, vel y per p definiatur, quo facilius altera
+integratio institui possit. Si y per p commode definiri queat, ut
+
+ 
+
+erit ὂωῑῑὲἔ, hincque x: ξεῖ ξ- -l-s-ff . Sin autem com-
+
+modius p per y definire liceat, ut sit sz denotante Y functio·
+
+nem quampiam ipsius ῃ, ob &xz-..2522 habebitur πΞΓ-Ῡῖ. At si'
+neutrum succedat, novam variabilem u introducendo, per eam utra-
+
+que quantitas p et y definiatur, ut fiat p:.-·..U et yzv, existenti-
+
+bus U et V functionibus ipsius u, atque hinc erit δαΐ-ἓξ, et x:
+
+s 3133 hocque modo per duplicem integrationem integrale completum·
+obtinebitur. ’ ·
+
+corollarium 1.
+
+7¹10. Hujusmodi ergo aequationum differentio·differentialium
+5
+

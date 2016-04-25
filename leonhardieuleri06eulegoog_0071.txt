@@ -1,0 +1,42 @@
+’ CAPUT nt Ι· 61
+
+‘et t, ex qua t per u determinari queat3 ope aequationis {ffisstg-{3
+y
+
+definietur x per u, hincque ob ιι :3:7² obtinebitur aequatio iute-
+gralis inter x et y, eaque ob duplicem integrationem completa.
+
+Coroll'arium 1.
+
+813. Aequationum ergo inter x, y, p et q hoc modo trae-
+tabilium hoc est criterium, ut posito yzxn ιι, pzxn*¹ t et q:
+xn-2v, exponens n ejusmodi determinationem patiatur, ut variabi-
+lis x prorsus ex calculo per divisionem egrediatur.
+
+Corolla'rium 2.
+
+814. Si sit 72:10, aequatio ita est comparata, ut tribuendo
+ipsi y ejusque differentialibus nullam dimensionem fiat homogenea.
+Hoc scilicet casu sola variabilis x cum suis differentialibus dimen-
+siones. constituere censetur..
+
+Corollarium 3..
+
+815. Contra vero si dimensiones ex sola variabili y aesti-
+mentur, ita ut ea cum suis differentialibus ἃς] ‹220ka ubique eun-
+dem dimensionum numerum constituat, exponens η fiet infinitus,
+
+Scholion..
+
+816. si sola variabilis x curn suis differentialibus ubique
+
+eundem dimensionum numerum complet, ob nzo fit uzy, et in
+aequatione inter x, y, p et q statui conveniet p z {- et tq: ἐξ .
+quo facto variabilis x ex calculo deturbabitur, prodibitque aequatio Ι
+
+inter y, t et v, cujus ope aequatio differentialis c) y (v —4- t) :tt'D t
+
+ad duas tantum variabiles reducetur, qua resoluta erit {eff-3: &ty ‚
+
+ubi cum t detur per y, integratio nullam habet difficultatem. Vc-
+

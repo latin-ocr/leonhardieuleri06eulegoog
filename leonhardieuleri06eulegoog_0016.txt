@@ -1,0 +1,39 @@
+6 · CAPUT Ι.
+
+nes prodeant diversae, certum est iis quoque diversas relationes ,
+inter variabiles x et y exprimi, cum contra solito more diversissi-
+mae aequationes differentio—differentiales eandem relationem indicare
+queant, ex quibus plerumque difficile est eam eligere, quae ad re·
+solutionem maxime sit accommodata. Cum igitur hic ejusmodi mee
+thodus requiratur, cujus op‘e proposita quacunque aequatione inter
+quaternas quantitates x, y, p et q, relatio inter binas variabiles x
+et y definiri queat, quoniam haec quaestio vircs‘humanas superare
+videtur, a casibus simplicissimis erit exordiendum. Casus autem
+simplicissimi sine dubio sunt, quando in aequatione 'proposita duae
+tantum insunt quantitates, scilieet vel x et q tantum, vel y et q,
+vel p et q, hoc est si q aequetur functioni vel ipsius x, vel ip-
+“sius y, vel ipsius ,ρ tanturm quos casus in hoc capite evolvere
+constituimus.
+
+D e-f'initi o.-
+
+¹113. Formula differentio · differentialis simplex est, quando
+posito ὃ. yzp ὃ x et ὂρῑ--ᾳῦ x, quantitas q aequatur functioni
+:vel ipsius x, vel ipsius 313 vel ipsius p tantum.
+
+Corollarium 1.
+
+· 714. Triplices ergo 'habemus formulas differentio—differentia-
+les simplic-ee, quarum resolutionem in hoc capite doceri eonvenit,
+prout quantitas q vel per functionem ipsius J), vel ipsius ευ, velip-
+sius y tantum determinatur.
+
+‘C-oro'llarium 2.
+
+715. si ergo X denotet functionem ipsius x, Y ipsius y,
+·et P ipsi-us ρ. santum,- terna genera harum formularum snnplicium
+sunt 1) q ,τ’-,ςΧ, 2) qzv, 3) qr-”l’3'in quibus continetur ca-
+nus simplicissimus. cs ..τ-ι Consu.
+
+ 
+

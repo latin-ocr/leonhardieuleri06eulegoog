@@ -1,0 +1,56 @@
+cit-Pur Πῐιλ 49<
+
+men ut ipsi una dimensio negativa sit ’tribuenda3 littera autem p
+in hunc computum plane non ingreditur, quae ergo utcunque ae-
+quationi implicetur, homogeneitatem non turbat. Plurimum 'autem
+interest probe nosse indolem differentio-differentialium aequationum
+homogenearum, cum earum resolutio ad resolutionem aequationum
+·differentialium primi gradus reduci possit, ita ut si haec successerit,
+etiam ipsarum aequationum differentio·differentialium integratio ha·
+beatur, id quod in sequenti problemate luculentius ostendemus.
+
+Problema 98.
+
+795. Proposita aequatione differentio·differentiali homogenea,
+ejus resolutionem ad integrationem aequationis differentialis primi
+gradus reducere.
+
+Solutio.h
+
+Reducta aequatione ponendo ὃ yzpb ω, et Dp :qu ad‘·
+formam hic receptam, ut habeatur aequatio inter quatuor quantita-
+
+tes finitas x, y, p et q, ponatur yz-..ux et ηεξ, ae cum ae·'
+
+quatio sit homogenea, hoe modo quantitas x penitus ex calculo eli·
+detur, ita ut proditura sit aequatio inter ternas quantitates a, v et
+p, ex qua unam per binas reliquas definire liceat. Nunc igitur cum
+
+ 
+
+ 
+
+sit Dyzpbx, erit uDae-l-xbuzpboe, hincque {fizpajs De-.
+inde ob szqu, erit Dpzvix, ideoque 23:953, ex quo
+ὄπ ὃτι -ἂρ
+
+p-u ..-. 37, seu vbuzpr—udp.
+Quodsi ergo ex illa aequatione quantitas v definiatur per binas p
+et u, habebitur aequatio differentialis primi gradus inter binas va-
+
+riabiles p et u, cujus integratio si suerit in potestate, ut p per u
+
+ 
+
+duplici ipsius --ae— valore colligitur
+
+ 
+
+innotescat, aequatio ³333: ΡΘ-Ϋα, in qua variabiles x et ιι sunt se-
+paratae, integretur, sicque x per ιι definietur; unde fit y :2 ux3.
+
+seu statim in hoc integrali loco u scribatur ᾖ, et habebitur aequa·
+
+tio inter x et y quaesita. -
+7
+

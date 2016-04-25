@@ -1,0 +1,36 @@
+CAPUT VIII.
+
+DE
+
+ALIARUM AEQUATIONUM mFFERENTm - DIFFER-ENTIALIUM ’
+RPSOLUTIONE PER SERIES INFINITAS. ’
+
+Problema 122.
+
+96⁷.
+
+Formam generalem aequationum differentio-differentialium‚ quas com-
+mode per series resolvere licet, exhibere, earumque integi-alia inve-
+stigare. '
+
+S o''1 u ti o.
+
+Primo alias aequationes commode per series· resolvere non-H-
+cet, nisi in quibus altera variabilis y cum suis differentialibus ὃ y ,
+εἰ &by nusquam plus una dimensione obtinetg quoniam pro y se-
+riem infinitam substituendo in calculos nimis molestos incideremus, ’
+si usquam plures dimensiones ingrederentur. Hujusmodi ergo aequa- -
+tiones in hac forma
+
+&By—l-MDny-l-Nybx232X3x2
+
+continentur. Tum vero ut seriei pro y assumtae quilibet terminus>
+per solum praecedentem determinetur, qui est casus resolutionis ma-
+xime· notabilis, duplicis tantum generis terminosfratione' alterius va-
+riabilis :iz-‘inesse oportet, siquidem ad dimensionem, quas ipsaxcum
+sno differentiali Hx constituit, respiciamus. Unde primo quidem,
+rejecto termino Χῦεε2, aequationes hoc modo resolubiles in hac sor-
+ma continentur
+
+ 
+

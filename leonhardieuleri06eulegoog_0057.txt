@@ -1,0 +1,40 @@
+ 
+
+· CAPUT ΠΙ.
+
+DE
+
+AEQUATIONIBUS DIFFERENTIO - DIFFERENTIALIBUS HOMO-
+GENEIS, ET QUAE AD EAM FORMAM REDUCI POSSUNT.
+
+Problema 97.
+
+790.
+
+Aequationum differentio·differentialium homogenearum 'naturam expli·
+
+care, atque ad formam finitam ponendo 331:pr et 311:qu gc..
+commodata
+
+Soluti'o,
+
+Sumto elemento ὒω constante, aequatio differentio-differentialis
+vulgari modo expressa· dieitur homogenea, si non solum ipsis varia-
+bilibus x, et y, sed etiam earum differentialibus 3:12 et by, item.
+que ipsi ὂῧῃ, singuiis unam dimensionem tribuendo, omnes aequa»
+tionis termini eundem dimensionum numerum contineant, veluti in
+
+hac aequatione·
+
+aeoeaby÷aebx²÷yby²:o·,
+ubi in singulis terminis ternae Insunt dimensiones. Quodsi ergo po-
+namus }{ ἴ...- ρ, ac g} z }}³3' Ξ q, littera p nullam dimensionem,
+
+littera vero ᾳ unam dimensionem negativam continere erit censen-
+
+da. Hinc aequatio differentio-differentialis ad formam hic receptam ’
+
+reducta, ut nonnisi quantitates finitas x, y, p et q contineat, erit
+homogenea, si litteris ω et y unam dimensionem tribuend0‚ litterae
+p vero, nullam, at litterae q unam dimensionem negativam, in sin·
+

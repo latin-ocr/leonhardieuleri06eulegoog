@@ -1,0 +1,39 @@
+ 
+
+CAPUT V.·
+
+DE
+
+INTEGRATIONE AEQUATIONUM DHfFERl-:NTIALIUM SECUNDI -
+GRADUS, IN QUIBUS ALTERA VARIABILIS UNAM DIMEN-
+SIONEM NON SUPERAT, PER FACTORES.
+
+Problema 107,
+
+865.
+
+Sumto elemento bx constante, si proponatur haec aequatio³
+
+bby‘-}—A3ny-†-Bybx²:xboe²‚
+
+ubi X denotat functionem quamcunque ipsius x, invenire functionem
+ipsius ετ, per quam *haec aequatio multiplicata fiat integrabilis.
+
+Solutio.
+
+Ponatur ὂ y .“.““.-···· Ρ ὃ x , ut habeatur forma difforentialis primi
+gradus ἑ
+ὀρ -θ-Αρόω--ι-ΒῃόωῑῑΧῦω,
+
+quae multiplicata per V, functionem quandam ipsius x, fiat integra·
+bilis3 scilicet
+
+‘ va÷Avpbx÷BVyboezvxboe,
+
+· ubi cum posterius membrum vxbx sit integr-abne, idem in priori
+eveniat, necesse est. At primo perspicuum est ejus integrans par·
+tem sore Vp, unde id ponatur vp÷s ut sit qut-Szsyxbx,
+fietque ’
+
+, ss .
+

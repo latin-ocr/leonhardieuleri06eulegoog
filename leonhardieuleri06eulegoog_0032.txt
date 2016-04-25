@@ -1,0 +1,39 @@
+ 
+
+‘CAPUT Π.
+
+'DE
+
+‚AEQJATIONIBUS DIFFERENTtO-DIFF-E-RENTIALIBUS m qm-
+,BUS ALTERA VARI'ABILIUM IPSA DEEST.
+
+,Prroblema 95..
+
+275ss.
+
+‘Posito Byzp'bx »et bpqux, si detur aequatio quaecunque in-
+
+ter tres quantitates x‚·.p et q, in qun-am altera variabilis y non in-
+grediatur, investigare relationem inter ipsas variabiles x et y.
+
+;Solutbm
+
+Cum aequatio proposita ‘has tres quantitates x, p et q eon.
+
+tinem, loco q scribatur ejus valor ἐξ, atque habebitur aequatio dif-
+
+ferentialis primi „gradus *duas tantum quantitates variabiles x et p ’
+
+involvens, ..quam secundum praecepta prioris partis tractari, ejusque
+integrale investigari oportet. Integrali autem invento, quod -si fue-
+rit completum constantem arbitrariam complectetur, inde vel p per
+x, vel x per p «determinari poterit. Priori -casu quo p per xde·
+finire licet, ut p aequatur functioni cuidam ipsius x, quae sit ΣΧ,
+<sb ›og-:X fiet pbxzbyszoe, unde reperitu1·y:sXDx-†-Const.
+quae aequatio relationem desideratam inter ει· et y definit. Poste·„
+riori casu quo x ,per p detur, et functioni cuidam P ipsius p ae-
+
+quatur, ut sit ω-ΞΡ, erit yzspbxzzspBP, seu yzpp—sl'bp.
+
+,sin autem neque x per p, neque p per x definiri queat, vi.
+

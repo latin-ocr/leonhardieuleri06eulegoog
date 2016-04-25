@@ -1,0 +1,35 @@
+cunr 11. ⁹ asi
+
+principiis tamen integrationis omnino abhorret. Cum enim aequatio
+differentialis est' altioris gr'adus, leges integrationis postulant, ut
+toties seorsim integretur, antequam ad relationem finitam inter binas
+variabiles perveniatur, et dum singulae integrationes constantem
+arbitrariam recipiunt, hoe demum modo integrale completum obti-
+netur. Hactenus autem una quasi operatione integrale postremum
+eruimus, eum omnibus constantibus, quibus id completum redditur,-
+revera scilicet sola conjectura utentes 'plura integralia particularia
+sumus adepti, atque natura aequationis commode permisit, ut ex
+iis integrale completum formare liceret. Verum si leges integrandi
+stricte observare velimus, proposita verbi gratia· aequatione diffe-
+rentiali quarti gradus, quadruplici integratione opus erit, quarum
+prima ea reducatur ad aequationem differentialem' tertii gradus,
+tum vero ista per novam integrationem ad aequationem differentia-
+lem secundi graduS, quae denuo integrata ad gradum primum per-
+ducatur, haecque tandem iterum integrata relationem quaesitam inter
+binas variabiles patefaciat. Atque hoc modo etiam aequationum hic
+tractatarum sormam resolvere licet, ut per continuas integrationes
+ad gradus simpliciores redigatur, quibus tandem eadem integralia,
+quae hie elicuimus, inveniantur. Cum autem haec methodus latius
+
+pateat, quam ad formas hie consideratas, ejusque ope haec aequn·
+tio generalior integrari queat
+
+XZAy4—na3xy4ca3ae3’y4 ἓ-ἃ-’,ζ-ι-εω.
+
+ 
+
+denotante X functionem quamcunque ipsius x, cui resolvendae prae· ’ ’
+
+eedens methodus mInime sufficit, novam methodum statim ad hane
+sormam generaliorem accommodabo.
+

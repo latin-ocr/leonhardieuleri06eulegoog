@@ -1,0 +1,43 @@
+286' CAPUT· XII.
+
+'ipsius ‚p non definitur. ‚Deinde etiam casus quibus vel e vel l·
+evanescit, seorsim tractari convenit: etsi enim· tum valores ipsarum
+y et ρ satis accurate ostenduntur, tamen quia nullam mqtationem
+patiuntur, dum mutatio altiore ipsius ω potestate exprimitur, ipsam
+mutationem investigari utile est, quo in progressu minus a veritate
+aberretur. sin autem quantitas b evadat infinita, jam animadverti·
+
+mus, loeo ipsius y ejus reciprocum ᾗ explorari deberi. „Quemad-
+
+modum ergo difficultatibus ante memoratis sit occurrendum, diligen·
+tius perpendamus. ’
+
+Problema 138.
+
+1088. si integrationem per intervalla instituendo, pro initio
+cujuspiam intervalli, posito x za, μετ-*ὁ et ρ’·...τ-ι- eveniat, ‚ut
+quantitas c sit vel evanescens vel* infinita , integrationem per hoe
+intervallum absolvere.
+
+. solutio}
+
+Praecedens approximatio dederat y z: b 4- ι· (εε- a), unde
+si c z 0, incrementum ipsius y altiore potestate ipsius x - α
+exprimetur, seilicet yzb -4- A (x - (θλ, existente λ > 1 , rejectis-
+que altioribus potestatibus , quae prae hae, ob intervallum x - a
+minimum, recte contemnuntur. Sin autem sit ι· z: 00 , valor ipsius
+'y simili modo repraesentari potest, y 5:11 -4- A (x - a)’‘, existente
+λ’ < 1,- ita tamen ut nihilo sit maj0r3 utroque ergo casu eadem
+investigatio est, ut ex aequatione proposita Dp: V ὂ x tam coef-
+
+fleiens A quam exponens λ definiatur. J am ex illa aequatione
+deducimus ⁴‘ ’
+
+Φ
+
+ἐςρτ-λιω-ωλ-ι et
+
+ὄρει-,λα -- 13A<x ...affl-⁸322, ·
+
+ 
+

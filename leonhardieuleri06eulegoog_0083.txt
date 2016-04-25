@@ -1,0 +1,39 @@
+ 
+
+CAPUT IV.-
+DE
+
+AEQUATIONIBUS DI'FFERENTIO-DIFFERENTIALIBUS IN Qut-
+Bus ALTERA -VARIABILIS UNICAM ΗΑΒΕΤ DIMENSIONEM.
+
+Problema 101.
+
+831.
+
+sumto elemento bx constante, si proponatur aequatio hujus for-
+mae ὒῦῃ —t-Pbx ἂῃ-ἦ-Ωῃᾶωῼῑῑ 0, ubi P et Q· sint functioss
+nes ’quaecunque ipsius x, eam ad aequationem differentialem primi
+1 gradus revocare.
+
+S 0 l u ti o.
+Ponendo ὓ y :z p D x et ὓ p Ξ q ὃ x, aequatio proposita in-
+=duit hanc sormam q-†— Pp ÷Q y z: 0, in qua si methodo ante .
+exposita statuamus p ,z ιι y et q ,τε v y, obtinebimus hanc inter x,
+-u et v aequationem v -1-Pu -ι- Q: 0, hincque v Σ--Ριι- Q.
+'.Tum vero fit
+
+‚Dyzuyax et u3y÷''y5u·:vy3x‚
+
+ 
+
+fita, ut sit
+. {³523 :zu ὂ-εε ;·.“.-·.. vexi-232
+ideoque
+
+‘Eud-uubae—t-Pqu—‚i-bez-..Q
+
+substituto pro v valore.
+
+Qua aequatione· resoluta erit lyr-:suboc- . Vel sine his
+10 t ’
+

@@ -1,0 +1,45 @@
+66 cal-‘AT 111.
+
+contineri deprehenditur: nihilo · vero minus satisfacit aequationi dif-
+ferendo-differentiaii propositae. Hoc ergo exemplo magis illustran-
+tan· ea, quae supra circa hoe paradoxon sumus commentati, quod
+interdum aequationi diti'etentiali satisfaciat aequatio finita, quae in
+integrali completo minime contineatur.v Videmus igitur hoc idem
+paradoxon etiam in aequationibus differentio-differentialibus iocum
+habere. Utrum autem illa aequatio yzC‘xx inter integrali-a sit
+admittenda, alia est quaestio, quae nondum penitus videturconfecta3
+hic quidem ipsa aequatio proposita quasi factores habens est cen-
+senda, ex quorum altero illa aequatio· yszx nascatur, verum
+multum abest, ut in hac explicatione acquiescere queamus. Quin
+potius ipsa illa, quaestiO, sive geometrica suerit·si've alius discipli·
+nae, cujus solutio ad hujusmodi aequationem perduxerit, accurate
+perpendi debere videon-3 ubi plerumque haud difficulter indicare po-
+test, utrum quiequid aequationi differentiali satisfaciat, id etiam ip·
+si quaestioni conveniat nec ne? Veluti si descensus gravis ex aiti-
+
+tudinc :a labentis definiri debeat, et altitudo qua jam a terra di· ο
+
+stat sit x, erit ibi ceieritas ut γ’ (cz—x), et elementum temporis
+
+ι ὒιῑῇἶὶ). Hic quidem evidens est isti aequationi differentiali
+
+ 
+
+satisfieri ponendo· xza, ita ut tempus t maneat indefinitum, quod
+tamen quaestioni neutiquam convenit, - quae nonisi vero integrati
+t: 2 1! (a — x) resolvitur„ ’
+
+Problema 100.
+
+822. Si in aequatione differentio-differentiali variabilis y cum
+suis-differentialibus Dy et c) ὃς] ubique eundem dimensionum nu-
+merum adimpleat, ejus integra-tionem ad aequationem⁷ differentialem
+primi gradus reducere.
+
+Solutim
+
+Posito By :2:pr et Dp ,τ’- ([ὂευ, aequatio ita erit compa·
+rata, ut in ea ternae variabiles y, p, q, ubique cundem dimensio-
+
+ 
+

@@ -1,0 +1,50 @@
+' CAPUT v11. - 153
+
+‚ubi cum terminus :cM-”sui similem· non habeat, tolli nequit, ita ιζ(
+hinc nulia aequationis resolutio obtineatur.
+
+*w Corollarium 1.
+
+930. Geminata series pro y inventa, quoniam litterae A et
+Q( arbitrio nostro relinquuntur, integrale completum aequationis dis-
+serendo-differentialis Dby÷axnybx²zo exhibet; tribuendo autem
+litteris A et Q! datos valores, integralia particularia nascentur.
+
+Corollarium 2.
+
+931. Si ponamus n-{-2„.··:m‚ seu n...···.:.m-—2,t hujus ae·
+quationis ὂ ὃ y -4-ει xm “““ ²yBx² r: Ο integrale completum ita com-
+modius exprImetut·
+
+ὶιΑωπι αῗΑτιθπι
+Α *- 1 (m—--1).1n÷ 1.2(m--1)(2m—·1).m²‘
+.(ι·’“Ἀαι33’η
+’- 1 λ 3(1n—-1)(2m--1)(31r—1) rrz”⁵·—†-e·tc
+
+affixum-¹³¹ ο a291ae2m÷1
+
+2¹³⁶-1m4-T-2-<ssssffzm
+
+assfflae3m-i-1
+Q *Wsff2112÷1)E3-5n÷1).m³
+
+ 
+
+ 
+
+-4- etc.
+
+Coroxlarium. ,3.
+
+932. Si exponens m suerit positivns et unitate major, hae
+series eo magis convergunt, quo minor valor q-:iantitati xtribuatur: '
+aliis vero casibus in praxi hae series adbiberi nequeunt, nist forte
+eae ipsae in alias convergentes transformari possint.
+
+Scholion 1.
+
+933. Dantur tamen casus, quibus hae series omni plane usu
+
+destituuntur, quod evenit, si quispiam factorum denominatores con·
+20
+

@@ -1,0 +1,38 @@
+CAPUT -1, 308
+
+Verum liae formae non omnen aeque , integrationem admittunt,
+dum aliae ne semel quidem , aliae semel tantum, aliae per omnes
+integrationes usque ad relationem inter x et y perduci possunt,
+cujusmodi sunt primae quaeque in quovis gradu. Semper autem
+·id est propositum, ut relatio inoer binas variabiles principales x
+et y eliciatur.
+
+Problema 141.
+
+, 1106. Posito 3y=p3x‚ ···-ap ...- ᾳόω, ὃ q Ξ-νόω,
+‚ ὃ r ...τ s ὃ ω, ὃ ε- .... t ὀ ae, etc. pro quovis differentialium gradu, ai
+litterarum p , q ‚ r , s, t, etc. quaepiam aequetur functioni ipsius x,
+quae sit X, invenire relationem inter x et y.
+
+Solutio.
+
+si primo sit pssX, per 3oe multiplicando erit pbxzbszB x
+hincque y :JX ὃ ae, qui est casus formularum differentialium primi
+gradus simplicium.
+
+sit secundo q: X, erit ᾳῦω- ap: xbx, hiuc pzsXbx,
+⁵ etpbx: by: bxsxbx, ergo yzsbfoDx, seu per sim·
+plicia integralia y·- xsXB ω- s X xBx. .
+
+sit tertio ›···-:X, ob 311:er erit qzsXboe, hincque
+pzsqboezsaoesXBaezixsXDx-sXxbae,
+ae tandem · ·
+
+yzspaxzsbxsBxsXszgoexsXDae
+-xsXxDx-f-gfxxoebx.
+
+Sit quarto s: X, ac reperitur yzsbxsBxsboesxbx,
+quac expressio evolvitur in hanc
+
+yzgoei‘sxbx ··· gaexsxaeaae-tssgxfxaexbx ···- gsX oe³3x.
+
